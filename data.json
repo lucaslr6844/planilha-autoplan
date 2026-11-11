@@ -379,8 +379,8 @@
     "url": "https://teixeiradefreitas.igov.com.br/documents/6a1e017a-2051-4c5f-9f44-addda8f6cfda/viewer",
     "status": "Encaminhamento agendado",
     "location": "SME / PA",
-    "evidence": "Processo criado por Lucas em 10/11/2026 às 11:35, valor de R$ 550,00. As assinaturas de Lucas (11:35) e Vancarlos Rodrigues de Almeida (12:36) aparecem concluídas. O histórico registra apenas a criação em SME/PA. Não foram localizados comprovante de pagamento nem manifestação da Controladoria nas peças disponíveis. Em 11/11, permanece em SME/PA, com transferência agendada para SME/Frotas às 09:38. A busca sinaliza Assinatura pendente; isso não altera o registro das duas assinaturas concluídas da criação. Foi encontrada outra ocorrência no título do PMTF-PR-97152/2026, valor R$ 1.125,80, também em SME/PA e com assinatura pendente. Sua correspondência e autoria ainda precisam ser verificadas.",
-    "action": "Verificar a pendência que impede efetivar o encaminhamento e conferir por que há dois processos com a referência 168.099 e valores diferentes.",
+    "evidence": "Processo criado por Lucas em 10/11/2026 às 11:35, valor de R$ 550,00. As assinaturas de Lucas (11:35) e Vancarlos Rodrigues de Almeida (12:36) aparecem concluídas. O histórico registra apenas a criação em SME/PA. Não foram localizados comprovante de pagamento nem manifestação da Controladoria nas peças disponíveis. Em 11/11, permanece em SME/PA, com transferência agendada para SME/Frotas às 09:38. A busca sinaliza Assinatura pendente; isso não altera o registro das duas assinaturas concluídas da criação. O PMTF-PR-97152/2026, de R$ 1.125,80, corresponde à nota 168.144: documento fiscal conferido na página 11 e título corrigido no iGov conforme informado por Lucas em 11/11/2026. Não se trata da mesma referência de nota deste processo (168.099).",
+    "action": "Verificar a pendência de assinatura que impede efetivar o encaminhamento a SME/Frotas.",
     "locationChecked": "11/11/2026",
     "igovState": "Assinatura pendente",
     "previousLocation": "SME / PA"
