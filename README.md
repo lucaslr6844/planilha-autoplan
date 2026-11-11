@@ -1,2 +1,7 @@
-# planilha-autoplan
-Painel de acompanhamento dos processos de pagamento da Autoplan.
+# Painel Autoplan
+
+Índice de processos de pagamento por localização, com busca, filtros e exportação CSV.
+
+Dados de conferência manual do iGov; não há atualização automática. Consulte a data e as ressalvas exibidas no painel.
+
+Hospedagem: GitHub Pages, branch main, pasta raiz.
