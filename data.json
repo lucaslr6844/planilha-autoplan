@@ -30,7 +30,8 @@
     "action": "Departamento de Frotas deve verificar o atendimento à notificação e o encaminhamento da regularização para análise.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "SME / Frotas"
+    "previousLocation": "SME / Frotas",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "507",
@@ -42,7 +43,8 @@
     "action": "Departamento de Frotas deve verificar o atendimento à notificação e o encaminhamento da regularização para análise.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "SME / Frotas"
+    "previousLocation": "SME / Frotas",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "536",
@@ -63,7 +65,8 @@
     "action": "Departamento de Frotas deve esclarecer a divergência e encaminhar a regularização para análise.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "Administração / Departamento de Frotas"
+    "previousLocation": "Administração / Departamento de Frotas",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "613",
@@ -75,19 +78,22 @@
     "action": "Pagamento comprovado. O valor transferido é o valor líquido observado no comprovante; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
     "igovState": "Transferido",
-    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação"
+    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "167.186",
     "process": "PMTF-PR-77768/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/81cfd166-8fef-43f0-b25a-0205095a4bb6/viewer",
-    "status": "Notificado pelo Controle",
-    "location": "Administração / Departamento de Frotas",
-    "evidence": "Notificação de 22/09/2026, p. 80: anexar registro fotográfico do item e cotação elaborada por Compras. Encaminhado a Compras - Cotação em 27/10. Em 11/11, a localização atual consultada é Administração / Departamento de Frotas.",
-    "action": "Departamento de Frotas deve verificar o atendimento à notificação e o encaminhamento da regularização para análise.",
+    "status": "Em reanálise no Controle",
+    "location": "Controladoria / Análise PG",
+    "evidence": "Notificação anterior de 22/09/2026, p. 80: anexar registro fotográfico do item e cotação elaborada por Compras. Nova consulta em 11/11/2026 identificou Pesquisa de Preços (p. 82), Cotação 23-2026 (p. 83), cotações da internet, Despacho Compras (p. 98) e Despacho de Autorização (p. 100). Histórico mostra transferência para Controladoria / Análise PG em 11/11 às 11:58. A conclusão sobre o atendimento integral à notificação cabe ao Controle.",
+    "action": "Aguardar reanálise da Controladoria, inclusive quanto ao registro fotográfico e às cotações exigidas.",
     "locationChecked": "11/11/2026",
-    "igovState": "Recebido",
-    "previousLocation": "Administração / Compras - Cotação"
+    "igovState": "Transferido",
+    "previousLocation": "Administração / Compras - Cotação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "167.368",
@@ -99,7 +105,8 @@
     "action": "Frotas deve apresentar a comprovação e devolver para análise.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "SME / Frotas"
+    "previousLocation": "SME / Frotas",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "167.642",
@@ -120,7 +127,8 @@
     "action": "Frotas deve dar continuidade à instrução e ao encaminhamento do processo.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "SME / PA"
+    "previousLocation": "SME / PA",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "167.944",
@@ -132,30 +140,37 @@
     "action": "Frotas deve dar continuidade à instrução e ao encaminhamento do processo.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "SME / PA"
+    "previousLocation": "SME / PA",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "758",
     "process": "PMTF-PR-94328/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/da725195-0022-4ed5-88d0-76a908d517c5/viewer",
-    "status": "Aguardando análise do Controle",
-    "location": "Controladoria / Análise PG",
-    "evidence": "Número da nota corrigido de 6758 para 758 e vinculação confirmada por Lucas em 11/11/2026. Nota registrada como 2026758 no histórico TGS-2G58, processo PMTF-PR-94328/2026, valor R$ 680,00. Na conferência de localização já registrada em 11/11, estava em Controladoria / Análise PG, com estado Assinatura pendente e histórico anexado em 09/11 (p. 123).",
-    "action": "Acompanhar a assinatura pendente e a manifestação da Controladoria.",
+    "status": "No Gabinete da SEFIN, sem pagamento confirmado",
+    "location": "SEFIN / Gabinete",
+    "evidence": "Nota 758 confirmada por Lucas como correção do número 6758, no PMTF-PR-94328/2026, valor R$ 680,00. Nova consulta em 11/11/2026: SEFIN / Gabinete, transferido às 14:59. Foram identificadas nota técnica do Controle (p. 125) e liquidação (p. 128). Não há comprovante bancário na relação de peças exibida.",
+    "action": "Aguardar providência do Gabinete da SEFIN e continuidade do fluxo financeiro; confirmar pagamento somente com comprovante.",
     "locationChecked": "11/11/2026",
-    "igovState": "Assinatura pendente"
+    "igovState": "Transferido",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "757",
     "process": "PMTF-PR-93434/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/4874d9a3-c528-41cc-84ae-56c18798ecb9/viewer",
-    "status": "Na Tesouraria, sem pagamento confirmado",
-    "location": "SEFIN / Tesouraria - Educação",
-    "evidence": "Nota de liquidação anexada em 05/11/2026, pp. 115–116. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.",
-    "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
+    "status": "Pago com comprovante",
+    "location": "SEFIN / Tesouraria Arquivo - Educação",
+    "evidence": "Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 119. Débito em 11/11/2026, valor transferido de R$ 511,71, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.",
+    "action": "Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
-    "igovState": "Assinatura pendente",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "igovState": "Transferido",
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "paymentDate": "11/11/2026",
+    "paymentNet": "511,71",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.008",
@@ -167,31 +182,40 @@
     "action": "Aguardar providência do Gabinete da SEFIN e continuidade do fluxo financeiro; confirmar pagamento somente com comprovante.",
     "locationChecked": "11/11/2026",
     "igovState": "Transferido",
-    "previousLocation": "Controladoria / Análise PG"
+    "previousLocation": "Controladoria / Análise PG",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.007",
     "process": "PMTF-PR-92949/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/f424ec0b-5723-4bfd-b884-ad31de43d259/viewer",
-    "status": "Na Tesouraria, sem pagamento confirmado",
-    "location": "SEFIN / Tesouraria - Educação",
-    "evidence": "Nota de liquidação anexada em 05/11/2026, pp. 115–116. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.",
-    "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
+    "status": "Pago com comprovante",
+    "location": "SEFIN / Tesouraria Arquivo - Educação",
+    "evidence": "Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 118. Débito em 11/11/2026, valor transferido de R$ 3.208,04, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.",
+    "action": "Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
-    "igovState": "Assinatura pendente",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "igovState": "Transferido",
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "paymentDate": "11/11/2026",
+    "paymentNet": "3.208,04",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "756",
     "process": "PMTF-PR-93656/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/b0273a78-3a88-4ebc-9c37-84e5f10c8985/viewer",
-    "status": "Na Tesouraria, sem pagamento confirmado",
-    "location": "SEFIN / Tesouraria - Educação",
-    "evidence": "Nota de liquidação anexada em 06/11/2026, pp. 117–118. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.",
-    "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
+    "status": "Pago com comprovante",
+    "location": "SEFIN / Tesouraria Arquivo - Educação",
+    "evidence": "Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 121. Débito em 11/11/2026, valor transferido de R$ 1.475,20, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.",
+    "action": "Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
-    "igovState": "Recebido",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "igovState": "Transferido",
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "paymentDate": "11/11/2026",
+    "paymentNet": "1.475,20",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.005",
@@ -203,7 +227,8 @@
     "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.004",
@@ -215,7 +240,8 @@
     "action": "Aguardar análise e manifestação da Controladoria.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "SME / Frotas"
+    "previousLocation": "SME / Frotas",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "754",
@@ -227,7 +253,8 @@
     "action": "Frotas deve detalhar os serviços de pneus e justificar a quilometragem do guincho, respondendo à notificação.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "Controladoria / Análise PG"
+    "previousLocation": "Controladoria / Análise PG",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "775",
@@ -239,7 +266,8 @@
     "action": "Pagamento comprovado. O valor transferido é o valor líquido observado no comprovante; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
     "igovState": "Transferido",
-    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação"
+    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "807",
@@ -251,7 +279,8 @@
     "action": "Pagamento comprovado. O valor transferido é o valor líquido observado no comprovante; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
     "igovState": "Transferido",
-    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação"
+    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "805",
@@ -263,7 +292,8 @@
     "action": "Verificar o motivo do arquivamento e eventual processo substituto; não considerar pago somente pelo arquivamento.",
     "locationChecked": "11/11/2026",
     "igovState": "Arquivado",
-    "previousLocation": "SME / PA"
+    "previousLocation": "SME / PA",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.087",
@@ -275,19 +305,24 @@
     "action": "Esclarecer e adequar a comprovação relacionada ao serviço de alternador e encaminhar resposta ao Controle.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "SME / Frotas"
+    "previousLocation": "SME / Frotas",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "777",
     "process": "PMTF-PR-92283/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/54e93813-356c-4d1a-8c8d-e2f604de55d7/viewer",
-    "status": "Na Tesouraria, sem pagamento confirmado",
-    "location": "SEFIN / Tesouraria - Educação",
-    "evidence": "Nota de liquidação anexada em 06/11/2026, pp. 114–115. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.",
-    "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
+    "status": "Pago com comprovante",
+    "location": "SEFIN / Tesouraria Arquivo - Educação",
+    "evidence": "Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 118. Débito em 11/11/2026, valor transferido de R$ 313,48, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.",
+    "action": "Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
-    "igovState": "Assinatura pendente",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "igovState": "Transferido",
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "paymentDate": "11/11/2026",
+    "paymentNet": "313,48",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "776",
@@ -299,7 +334,8 @@
     "action": "Aguardar análise da justificativa pela Controladoria.",
     "locationChecked": "11/11/2026",
     "igovState": "Recebido",
-    "previousLocation": "Controladoria / Análise PG"
+    "previousLocation": "Controladoria / Análise PG",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.058",
@@ -311,7 +347,8 @@
     "action": "Pagamento comprovado. O valor transferido é o valor líquido observado no comprovante; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
     "igovState": "Transferido",
-    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação"
+    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "774",
@@ -323,55 +360,72 @@
     "action": "Pagamento comprovado. O valor transferido é o valor líquido observado no comprovante; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
     "igovState": "Transferido",
-    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação"
+    "previousLocation": "SEFIN / Tesouraria Arquivo - Educação",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.057",
     "process": "PMTF-PR-92504/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/b32a75a6-ffe7-4751-9e58-a0e880d50eec/viewer",
-    "status": "Na Tesouraria, sem pagamento confirmado",
-    "location": "SEFIN / Tesouraria - Educação",
-    "evidence": "Nota de liquidação anexada em 06/11/2026, pp. 79–80. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.",
-    "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
+    "status": "Pago com comprovante",
+    "location": "SEFIN / Tesouraria Arquivo - Educação",
+    "evidence": "Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 82. Débito em 11/11/2026, valor transferido de R$ 469,30, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.",
+    "action": "Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
-    "igovState": "Aguardando ação",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "igovState": "Transferido",
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "paymentDate": "11/11/2026",
+    "paymentNet": "469,30",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.055",
     "process": "PMTF-PR-91664/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/59ee987e-5543-40ce-8b28-4d3c327a0730/viewer",
-    "status": "Na Tesouraria, sem pagamento confirmado",
-    "location": "SEFIN / Tesouraria - Educação",
-    "evidence": "Nota de liquidação anexada em 09/11/2026, pp. 140–141. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada. Há notificação anterior, seguida de novas peças e avanço para liquidação/Tesouraria.",
-    "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
+    "status": "Pago com comprovante",
+    "location": "SEFIN / Tesouraria Arquivo - Educação",
+    "evidence": "Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 143. Débito em 11/11/2026, valor transferido de R$ 2.465,55, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.",
+    "action": "Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
-    "igovState": "Assinatura pendente",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "igovState": "Transferido",
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "paymentDate": "11/11/2026",
+    "paymentNet": "2.465,55",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.054",
     "process": "PMTF-PR-92028/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/cf8d6f3e-9fa8-4b4b-bd8d-1be61e737ed8/viewer",
-    "status": "Na Tesouraria, sem pagamento confirmado",
-    "location": "SEFIN / Tesouraria - Educação",
-    "evidence": "Nota de liquidação anexada em 03/11/2026, pp. 110–111. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.",
-    "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
+    "status": "Pago com comprovante",
+    "location": "SEFIN / Tesouraria Arquivo - Educação",
+    "evidence": "Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 113. Débito em 11/11/2026, valor transferido de R$ 4.841,20, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.",
+    "action": "Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
-    "igovState": "Recebido",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "igovState": "Transferido",
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "paymentDate": "11/11/2026",
+    "paymentNet": "4.841,20",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.053",
     "process": "PMTF-PR-90934/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/8304e867-922f-49ea-97ba-ec58e237a0cc/viewer",
-    "status": "Na Tesouraria, sem pagamento confirmado",
-    "location": "SEFIN / Tesouraria - Educação",
-    "evidence": "Nota de liquidação anexada em 04/11/2026, pp. 113–114. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada. Há notificação anterior, seguida de novas peças e avanço para liquidação/Tesouraria.",
-    "action": "Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.",
+    "status": "Pago com comprovante",
+    "location": "SEFIN / Tesouraria Arquivo - Educação",
+    "evidence": "Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 117. Débito em 11/11/2026, valor transferido de R$ 1.689,48, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.",
+    "action": "Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.",
     "locationChecked": "11/11/2026",
-    "igovState": "Recebido",
-    "previousLocation": "SEFIN / Tesouraria - Educação"
+    "igovState": "Transferido",
+    "previousLocation": "SEFIN / Tesouraria - Educação",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "paymentDate": "11/11/2026",
+    "paymentNet": "1.689,48",
+    "documentCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "168.099",
@@ -383,7 +437,8 @@
     "action": "Verificar a pendência de assinatura que impede efetivar o encaminhamento a SME/Frotas.",
     "locationChecked": "11/11/2026",
     "igovState": "Assinatura pendente",
-    "previousLocation": "SME / PA"
+    "previousLocation": "SME / PA",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "808",
@@ -395,7 +450,8 @@
     "action": "Aguardar assinatura de Vancarlos e encaminhamento do processo à etapa seguinte.",
     "locationChecked": "11/11/2026",
     "igovState": "Assinatura pendente",
-    "previousLocation": "SME / PA"
+    "previousLocation": "SME / PA",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "818",
@@ -419,7 +475,8 @@
     "action": "Aguardar providência do Gabinete da SEFIN e continuidade do fluxo financeiro; confirmar pagamento somente com comprovante.",
     "locationChecked": "11/11/2026",
     "igovState": "Transferido",
-    "previousLocation": "SME / Frotas"
+    "previousLocation": "SME / Frotas",
+    "locationCheckedAt": "11/11/2026 17:09"
   },
   {
     "note": "824",
@@ -431,6 +488,112 @@
     "action": "Aguardar providência do Gabinete da SEFIN e continuidade do fluxo financeiro; confirmar pagamento somente com comprovante.",
     "locationChecked": "11/11/2026",
     "igovState": "Transferido",
-    "previousLocation": "Controladoria / Análise PG"
+    "previousLocation": "Controladoria / Análise PG",
+    "locationCheckedAt": "11/11/2026 17:09"
+  },
+  {
+    "note": "168.199",
+    "process": "PMTF-PR-97655/2026",
+    "url": "https://teixeiradefreitas.igov.com.br/documents/b3b150e0-804c-4050-87e4-2ed3cda6063e/viewer",
+    "status": "Assinatura pendente",
+    "location": "SME / PA",
+    "evidence": "Processo criado por Lucas em 11/11/2026 às 16:51, valor de R$ 2.952,00. Nota fiscal anexada na página 11 conferida e compatível com o número e valor do título. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 16:51. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.",
+    "action": "Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.",
+    "locationChecked": "11/11/2026",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09",
+    "igovState": "Assinatura pendente",
+    "createdAt": "11/11/2026 16:51",
+    "value": "2.952,00"
+  },
+  {
+    "note": "826",
+    "process": "PMTF-PR-97553/2026",
+    "url": "https://teixeiradefreitas.igov.com.br/documents/2a705940-bf75-4a7d-b488-74287695d73d/viewer",
+    "status": "Assinatura pendente",
+    "location": "SME / PA",
+    "evidence": "Processo criado por Lucas em 11/11/2026 às 15:25, valor de R$ 250,00. Nota fiscal anexada na página 11 conferida e compatível com o número e valor do título. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 15:26. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.",
+    "action": "Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.",
+    "locationChecked": "11/11/2026",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09",
+    "igovState": "Assinatura pendente",
+    "createdAt": "11/11/2026 15:25",
+    "value": "250,00"
+  },
+  {
+    "note": "168.179",
+    "process": "PMTF-PR-97512/2026",
+    "url": "https://teixeiradefreitas.igov.com.br/documents/13357bb0-c973-40a6-81e3-9f9cef30696e/viewer",
+    "status": "Assinatura pendente",
+    "location": "SME / PA",
+    "evidence": "Processo criado por Lucas em 11/11/2026 às 14:47, valor de R$ 1.029,00. Nota fiscal anexada na página 11 conferida e compatível com o número e valor do título. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 14:47. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.",
+    "action": "Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.",
+    "locationChecked": "11/11/2026",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09",
+    "igovState": "Assinatura pendente",
+    "createdAt": "11/11/2026 14:47",
+    "value": "1.029,00"
+  },
+  {
+    "note": "825",
+    "process": "PMTF-PR-97350/2026",
+    "url": "https://teixeiradefreitas.igov.com.br/documents/14b40a3a-dbdf-4f8b-bfcb-9fa735c9c2e1/viewer",
+    "status": "Assinatura pendente",
+    "location": "SME / PA",
+    "evidence": "Processo criado por Lucas em 11/11/2026 às 10:57, valor de R$ 150,00. Nota fiscal já conferida na análise individual anterior de 11/11; título e trâmite novamente consultados. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 10:57. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.",
+    "action": "Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.",
+    "locationChecked": "11/11/2026",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09",
+    "igovState": "Assinatura pendente",
+    "createdAt": "11/11/2026 10:57",
+    "value": "150,00"
+  },
+  {
+    "note": "168.178",
+    "process": "PMTF-PR-97282/2026",
+    "url": "https://teixeiradefreitas.igov.com.br/documents/7ca1a1f6-13fb-48fc-aeba-0f6d273f7901/viewer",
+    "status": "Assinatura pendente",
+    "location": "SME / PA",
+    "evidence": "Processo criado por Lucas em 11/11/2026 às 10:31, valor de R$ 450,00. Nota fiscal já conferida na análise individual anterior de 11/11; título e trâmite novamente consultados. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 10:31. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.",
+    "action": "Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.",
+    "locationChecked": "11/11/2026",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09",
+    "igovState": "Assinatura pendente",
+    "createdAt": "11/11/2026 10:31",
+    "value": "450,00"
+  },
+  {
+    "note": "168.287",
+    "process": "PMTF-PR-97230/2026",
+    "url": "https://teixeiradefreitas.igov.com.br/documents/5f3dbcf4-efb1-4e09-b45f-15032660403e/viewer",
+    "status": "Assinatura pendente",
+    "location": "SME / PA",
+    "evidence": "Processo criado por Lucas em 11/11/2026 às 10:07, valor de R$ 450,00. Nota fiscal já conferida na análise individual anterior de 11/11; título e trâmite novamente consultados. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 10:07. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.",
+    "action": "Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.",
+    "locationChecked": "11/11/2026",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09",
+    "igovState": "Assinatura pendente",
+    "createdAt": "11/11/2026 10:07",
+    "value": "450,00"
+  },
+  {
+    "note": "168.144",
+    "process": "PMTF-PR-97152/2026",
+    "url": "https://teixeiradefreitas.igov.com.br/documents/11338487-9cc3-443b-aa32-fe1cb2308fc9/viewer",
+    "status": "Assinatura pendente",
+    "location": "SME / PA",
+    "evidence": "Processo criado por Lucas em 11/11/2026 às 09:29, valor de R$ 1.125,80. Nota fiscal já conferida na análise individual anterior de 11/11; título e trâmite novamente consultados. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 14:54. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.",
+    "action": "Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.",
+    "locationChecked": "11/11/2026",
+    "locationCheckedAt": "11/11/2026 17:09",
+    "documentCheckedAt": "11/11/2026 17:09",
+    "igovState": "Assinatura pendente",
+    "createdAt": "11/11/2026 09:29",
+    "value": "1.125,80"
   }
 ]
