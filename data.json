@@ -135,16 +135,15 @@
     "previousLocation": "SME / PA"
   },
   {
-    "note": "6758",
+    "note": "758",
     "process": "PMTF-PR-94328/2026",
     "url": "https://teixeiradefreitas.igov.com.br/documents/da725195-0022-4ed5-88d0-76a908d517c5/viewer",
-    "status": "Número a confirmar",
-    "location": "Controladoria / Análise PG (candidato)",
-    "evidence": "Não foi confirmada uma nota com número exato 6758. Há correspondência provável com a nota 758, registrada como 2026758 no histórico TGS-2G58, no processo PMTF-PR-94328/2026, valor R$ 680,00. O processo está no Controle para análise, com histórico anexado em 09/11 (p. 123).",
-    "action": "Confirmar se “6758” significa 758/2026758. A situação do candidato não deve ser atribuída automaticamente à nota informada.",
+    "status": "Aguardando análise do Controle",
+    "location": "Controladoria / Análise PG",
+    "evidence": "Número da nota corrigido de 6758 para 758 e vinculação confirmada por Lucas em 11/11/2026. Nota registrada como 2026758 no histórico TGS-2G58, processo PMTF-PR-94328/2026, valor R$ 680,00. Na conferência de localização já registrada em 11/11, estava em Controladoria / Análise PG, com estado Assinatura pendente e histórico anexado em 09/11 (p. 123).",
+    "action": "Acompanhar a assinatura pendente e a manifestação da Controladoria.",
     "locationChecked": "11/11/2026",
-    "igovState": "Assinatura pendente",
-    "previousLocation": "Controladoria / Análise PG (candidato)"
+    "igovState": "Assinatura pendente"
   },
   {
     "note": "757",
