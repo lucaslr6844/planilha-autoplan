@@ -1,8 +1,27 @@
-# Autoplan — conferência das 37 notas
+# Autoplan — conferência atualizada em 11/11/2026 às 17:09
 
-Localizações reconsultadas em 11/11/2026. São 34 processos identificados e três notas sem identificação segura. Em 11/11, Lucas confirmou que o número informado como 6758 corresponde à nota 758, do PMTF-PR-94328/2026. Esta correção de identificação não é uma nova consulta de localização no iGov.
+44 notas acompanhadas: 41 processos identificados e 3 notas sem identificação segura. Sete processos criados por Lucas em 11/11 foram incluídos no painel; três são posteriores à análise da manhã. Oito pagamentos adicionais tiveram comprovantes bancários lidos, elevando o total confirmado a 13.
 
-As evidências documentais e as datas de conferência estão descritas em cada registro. Arquivamento ou liquidação isoladamente não comprovam pagamento.
+Consulta feita no perfil SME / Processos Administrativos. A pesquisa por Autoplan e autor Lucas retornou 221 registros. As localizações dos registros correspondentes foram atualizadas; 219 (processo coletivo) e 818 (criado por outro usuário e conteúdo restrito) mantêm a conferência anterior. Não foi realizada releitura integral das peças de todos os processos: foram reabertos os sete lançamentos do dia, os oito processos com novos comprovantes, a nota 758 e a nota 167.186. As demais evidências preservam a data e os limites da conferência anterior.
+
+A nota 758 corresponde ao número antes informado como 6758. O PMTF-PR-97152/2026 corresponde à nota 168.144, com título corrigido. Arquivamento, liquidação ou envio à Tesouraria não confirmam pagamento sem comprovante.
+
+## Mudanças de localização nesta atualização
+
+| Nota | Processo | Antes | Agora |
+|---|---|---|---|
+| 167.186 | PMTF-PR-77768/2026 | Administração / Departamento de Frotas | Controladoria / Análise PG |
+| 758 | PMTF-PR-94328/2026 | Controladoria / Análise PG | SEFIN / Gabinete |
+| 757 | PMTF-PR-93434/2026 | SEFIN / Tesouraria - Educação | SEFIN / Tesouraria Arquivo - Educação |
+| 168.007 | PMTF-PR-92949/2026 | SEFIN / Tesouraria - Educação | SEFIN / Tesouraria Arquivo - Educação |
+| 756 | PMTF-PR-93656/2026 | SEFIN / Tesouraria - Educação | SEFIN / Tesouraria Arquivo - Educação |
+| 777 | PMTF-PR-92283/2026 | SEFIN / Tesouraria - Educação | SEFIN / Tesouraria Arquivo - Educação |
+| 168.057 | PMTF-PR-92504/2026 | SEFIN / Tesouraria - Educação | SEFIN / Tesouraria Arquivo - Educação |
+| 168.055 | PMTF-PR-91664/2026 | SEFIN / Tesouraria - Educação | SEFIN / Tesouraria Arquivo - Educação |
+| 168.054 | PMTF-PR-92028/2026 | SEFIN / Tesouraria - Educação | SEFIN / Tesouraria Arquivo - Educação |
+| 168.053 | PMTF-PR-90934/2026 | SEFIN / Tesouraria - Educação | SEFIN / Tesouraria Arquivo - Educação |
+
+## Relação completa
 
 | Nota | Processo | Localização | Situação |
 |---|---|---|---|
@@ -13,16 +32,16 @@ As evidências documentais e as datas de conferência estão descritas em cada r
 | 536 | Não identificado | Não identificada | Não localizado com segurança |
 | 551 | PMTF-PR-67692/2026 | Administração / Departamento de Frotas | Notificado pelo Controle |
 | 613 | PMTF-PR-78769/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
-| 167.186 | PMTF-PR-77768/2026 | Administração / Departamento de Frotas | Notificado pelo Controle |
+| 167.186 | PMTF-PR-77768/2026 | Controladoria / Análise PG | Em reanálise no Controle |
 | 167.368 | PMTF-PR-79180/2026 | SME / Frotas | Notificado pelo Controle |
 | 167.642 | Não identificado | Não identificada | Não localizado com segurança |
 | 735 | PMTF-PR-96237/2026 | SME / Frotas | Aguardando providência de Frotas |
 | 167.944 | PMTF-PR-96622/2026 | SME / Frotas | Aguardando providência de Frotas |
-| 758 | PMTF-PR-94328/2026 | Controladoria / Análise PG | Aguardando análise do Controle |
-| 757 | PMTF-PR-93434/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
+| 758 | PMTF-PR-94328/2026 | SEFIN / Gabinete | No Gabinete da SEFIN, sem pagamento confirmado |
+| 757 | PMTF-PR-93434/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
 | 168.008 | PMTF-PR-93969/2026 | SEFIN / Gabinete | No Gabinete da SEFIN, sem pagamento confirmado |
-| 168.007 | PMTF-PR-92949/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
-| 756 | PMTF-PR-93656/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
+| 168.007 | PMTF-PR-92949/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
+| 756 | PMTF-PR-93656/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
 | 168.005 | PMTF-PR-93788/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
 | 168.004 | PMTF-PR-95538/2026 | Controladoria / Análise PG | Aguardando análise do Controle |
 | 754 | PMTF-PR-95507/2026 | SME / Frotas | Notificado pelo Controle |
@@ -30,19 +49,26 @@ As evidências documentais e as datas de conferência estão descritas em cada r
 | 807 | PMTF-PR-90703/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
 | 805 | PMTF-PR-87740/2026 | SME / PA | Arquivado sem pagamento confirmado |
 | 168.087 | PMTF-PR-89612/2026 | SME / Frotas | Notificado pelo Controle |
-| 777 | PMTF-PR-92283/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
+| 777 | PMTF-PR-92283/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
 | 776 | PMTF-PR-91942/2026 | Controladoria / Análise PG | Em reanálise no Controle |
 | 168.058 | PMTF-PR-91093/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
 | 774 | PMTF-PR-91168/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
-| 168.057 | PMTF-PR-92504/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
-| 168.055 | PMTF-PR-91664/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
-| 168.054 | PMTF-PR-92028/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
-| 168.053 | PMTF-PR-90934/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
+| 168.057 | PMTF-PR-92504/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
+| 168.055 | PMTF-PR-91664/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
+| 168.054 | PMTF-PR-92028/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
+| 168.053 | PMTF-PR-90934/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
 | 168.099 | PMTF-PR-96751/2026 | SME / PA | Encaminhamento agendado |
 | 808 | PMTF-PR-96856/2026 | SME / PA | Assinatura pendente |
 | 818 | PMTF-PR-90558/2026 | SEFIN / Tesouraria Arquivo - Educação | Conteúdo restrito; pagamento não confirmado |
 | 821 | PMTF-PR-95611/2026 | SEFIN / Gabinete | No Gabinete da SEFIN, sem pagamento confirmado |
 | 824 | PMTF-PR-95710/2026 | SEFIN / Gabinete | No Gabinete da SEFIN, sem pagamento confirmado |
+| 168.199 | PMTF-PR-97655/2026 | SME / PA | Assinatura pendente |
+| 826 | PMTF-PR-97553/2026 | SME / PA | Assinatura pendente |
+| 168.179 | PMTF-PR-97512/2026 | SME / PA | Assinatura pendente |
+| 825 | PMTF-PR-97350/2026 | SME / PA | Assinatura pendente |
+| 168.178 | PMTF-PR-97282/2026 | SME / PA | Assinatura pendente |
+| 168.287 | PMTF-PR-97230/2026 | SME / PA | Assinatura pendente |
+| 168.144 | PMTF-PR-97152/2026 | SME / PA | Assinatura pendente |
 
 ## Nota 219
 
@@ -98,9 +124,9 @@ https://teixeiradefreitas.igov.com.br/documents/5e8ec27b-1b7e-4247-a1fc-9d58526e
 
 ## Nota 167.186
 
-Notificação de 22/09/2026, p. 80: anexar registro fotográfico do item e cotação elaborada por Compras. Encaminhado a Compras - Cotação em 27/10. Em 11/11, a localização atual consultada é Administração / Departamento de Frotas.
+Notificação anterior de 22/09/2026, p. 80: anexar registro fotográfico do item e cotação elaborada por Compras. Nova consulta em 11/11/2026 identificou Pesquisa de Preços (p. 82), Cotação 23-2026 (p. 83), cotações da internet, Despacho Compras (p. 98) e Despacho de Autorização (p. 100). Histórico mostra transferência para Controladoria / Análise PG em 11/11 às 11:58. A conclusão sobre o atendimento integral à notificação cabe ao Controle.
 
-Providência: Departamento de Frotas deve verificar o atendimento à notificação e o encaminhamento da regularização para análise.
+Providência: Aguardar reanálise da Controladoria, inclusive quanto ao registro fotográfico e às cotações exigidas.
 
 https://teixeiradefreitas.igov.com.br/documents/81cfd166-8fef-43f0-b25a-0205095a4bb6/viewer
 
@@ -136,17 +162,17 @@ https://teixeiradefreitas.igov.com.br/documents/1e629517-e5d2-415b-bc07-eae24021
 
 ## Nota 758
 
-Número da nota corrigido de 6758 para 758 e vinculação confirmada por Lucas em 11/11/2026. Nota registrada como 2026758 no histórico TGS-2G58, processo PMTF-PR-94328/2026, valor R$ 680,00. Na conferência de localização já registrada em 11/11, estava em Controladoria / Análise PG, com estado Assinatura pendente e histórico anexado em 09/11 (p. 123).
+Nota 758 confirmada por Lucas como correção do número 6758, no PMTF-PR-94328/2026, valor R$ 680,00. Nova consulta em 11/11/2026: SEFIN / Gabinete, transferido às 14:59. Foram identificadas nota técnica do Controle (p. 125) e liquidação (p. 128). Não há comprovante bancário na relação de peças exibida.
 
-Providência: Acompanhar a assinatura pendente e a manifestação da Controladoria.
+Providência: Aguardar providência do Gabinete da SEFIN e continuidade do fluxo financeiro; confirmar pagamento somente com comprovante.
 
 https://teixeiradefreitas.igov.com.br/documents/da725195-0022-4ed5-88d0-76a908d517c5/viewer
 
 ## Nota 757
 
-Nota de liquidação anexada em 05/11/2026, pp. 115–116. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.
+Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 119. Débito em 11/11/2026, valor transferido de R$ 511,71, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.
 
-Providência: Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.
+Providência: Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.
 
 https://teixeiradefreitas.igov.com.br/documents/4874d9a3-c528-41cc-84ae-56c18798ecb9/viewer
 
@@ -160,17 +186,17 @@ https://teixeiradefreitas.igov.com.br/documents/271f2b51-2d5d-4f76-8caa-032cb194
 
 ## Nota 168.007
 
-Nota de liquidação anexada em 05/11/2026, pp. 115–116. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.
+Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 118. Débito em 11/11/2026, valor transferido de R$ 3.208,04, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.
 
-Providência: Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.
+Providência: Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.
 
 https://teixeiradefreitas.igov.com.br/documents/f424ec0b-5723-4bfd-b884-ad31de43d259/viewer
 
 ## Nota 756
 
-Nota de liquidação anexada em 06/11/2026, pp. 117–118. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.
+Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 121. Débito em 11/11/2026, valor transferido de R$ 1.475,20, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.
 
-Providência: Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.
+Providência: Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.
 
 https://teixeiradefreitas.igov.com.br/documents/b0273a78-3a88-4ebc-9c37-84e5f10c8985/viewer
 
@@ -232,9 +258,9 @@ https://teixeiradefreitas.igov.com.br/documents/75e4df8c-4ce2-46c9-b285-277a47ba
 
 ## Nota 777
 
-Nota de liquidação anexada em 06/11/2026, pp. 114–115. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.
+Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 118. Débito em 11/11/2026, valor transferido de R$ 313,48, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.
 
-Providência: Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.
+Providência: Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.
 
 https://teixeiradefreitas.igov.com.br/documents/54e93813-356c-4d1a-8c8d-e2f604de55d7/viewer
 
@@ -264,33 +290,33 @@ https://teixeiradefreitas.igov.com.br/documents/446f2c6f-0bfc-4e28-9a58-358e7828
 
 ## Nota 168.057
 
-Nota de liquidação anexada em 06/11/2026, pp. 79–80. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.
+Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 82. Débito em 11/11/2026, valor transferido de R$ 469,30, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.
 
-Providência: Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.
+Providência: Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.
 
 https://teixeiradefreitas.igov.com.br/documents/b32a75a6-ffe7-4751-9e58-a0e880d50eec/viewer
 
 ## Nota 168.055
 
-Nota de liquidação anexada em 09/11/2026, pp. 140–141. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada. Há notificação anterior, seguida de novas peças e avanço para liquidação/Tesouraria.
+Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 143. Débito em 11/11/2026, valor transferido de R$ 2.465,55, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.
 
-Providência: Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.
+Providência: Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.
 
 https://teixeiradefreitas.igov.com.br/documents/59ee987e-5543-40ce-8b28-4d3c327a0730/viewer
 
 ## Nota 168.054
 
-Nota de liquidação anexada em 03/11/2026, pp. 110–111. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada.
+Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 113. Débito em 11/11/2026, valor transferido de R$ 4.841,20, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.
 
-Providência: Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.
+Providência: Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.
 
 https://teixeiradefreitas.igov.com.br/documents/cf8d6f3e-9fa8-4b4b-bd8d-1be61e737ed8/viewer
 
 ## Nota 168.053
 
-Nota de liquidação anexada em 04/11/2026, pp. 113–114. Processo encaminhado à Tesouraria. Não foi localizado comprovante bancário ou nota de pagamento na relação de peças consultada. Há notificação anterior, seguida de novas peças e avanço para liquidação/Tesouraria.
+Comprovante bancário de TED para Autoplan lido na nova conferência de 11/11/2026, p. 117. Débito em 11/11/2026, valor transferido de R$ 1.689,48, transação efetuada com sucesso. O processo também contém nota de pagamento. Localização atual: SEFIN / Tesouraria Arquivo - Educação.
 
-Providência: Aguardar providência de pagamento da Tesouraria; solicitar o comprovante quando efetuado.
+Providência: Pagamento comprovado. O valor indicado é o líquido transferido; conferir retenções na nota de pagamento antes de compará-lo ao valor bruto da nota fiscal.
 
 https://teixeiradefreitas.igov.com.br/documents/8304e867-922f-49ea-97ba-ec58e237a0cc/viewer
 
@@ -333,3 +359,59 @@ Conferido em 11/11/2026: processo em SEFIN / Gabinete. A relação de peças con
 Providência: Aguardar providência do Gabinete da SEFIN e continuidade do fluxo financeiro; confirmar pagamento somente com comprovante.
 
 https://teixeiradefreitas.igov.com.br/documents/75f1b668-45fc-4796-93bb-3d2bfc6b516f/viewer
+
+## Nota 168.199
+
+Processo criado por Lucas em 11/11/2026 às 16:51, valor de R$ 2.952,00. Nota fiscal anexada na página 11 conferida e compatível com o número e valor do título. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 16:51. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.
+
+Providência: Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.
+
+https://teixeiradefreitas.igov.com.br/documents/b3b150e0-804c-4050-87e4-2ed3cda6063e/viewer
+
+## Nota 826
+
+Processo criado por Lucas em 11/11/2026 às 15:25, valor de R$ 250,00. Nota fiscal anexada na página 11 conferida e compatível com o número e valor do título. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 15:26. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.
+
+Providência: Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.
+
+https://teixeiradefreitas.igov.com.br/documents/2a705940-bf75-4a7d-b488-74287695d73d/viewer
+
+## Nota 168.179
+
+Processo criado por Lucas em 11/11/2026 às 14:47, valor de R$ 1.029,00. Nota fiscal anexada na página 11 conferida e compatível com o número e valor do título. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 14:47. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.
+
+Providência: Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.
+
+https://teixeiradefreitas.igov.com.br/documents/13357bb0-c973-40a6-81e3-9f9cef30696e/viewer
+
+## Nota 825
+
+Processo criado por Lucas em 11/11/2026 às 10:57, valor de R$ 150,00. Nota fiscal já conferida na análise individual anterior de 11/11; título e trâmite novamente consultados. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 10:57. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.
+
+Providência: Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.
+
+https://teixeiradefreitas.igov.com.br/documents/14b40a3a-dbdf-4f8b-bfcb-9fa735c9c2e1/viewer
+
+## Nota 168.178
+
+Processo criado por Lucas em 11/11/2026 às 10:31, valor de R$ 450,00. Nota fiscal já conferida na análise individual anterior de 11/11; título e trâmite novamente consultados. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 10:31. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.
+
+Providência: Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.
+
+https://teixeiradefreitas.igov.com.br/documents/7ca1a1f6-13fb-48fc-aeba-0f6d273f7901/viewer
+
+## Nota 168.287
+
+Processo criado por Lucas em 11/11/2026 às 10:07, valor de R$ 450,00. Nota fiscal já conferida na análise individual anterior de 11/11; título e trâmite novamente consultados. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 10:07. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.
+
+Providência: Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.
+
+https://teixeiradefreitas.igov.com.br/documents/5f3dbcf4-efb1-4e09-b45f-15032660403e/viewer
+
+## Nota 168.144
+
+Processo criado por Lucas em 11/11/2026 às 09:29, valor de R$ 1.125,80. Nota fiscal já conferida na análise individual anterior de 11/11; título e trâmite novamente consultados. Na nova consulta, permanece em SME/PA. Lucas consta como assinado; Vancarlos Rodrigues de Almeida permanece pendente. Transferência agendada para SME/Frotas em 11/11 às 14:54. Não foi identificado comprovante de pagamento ou manifestação do Controle nas peças exibidas.
+
+Providência: Aguardar assinatura de Vancarlos para efetivar o encaminhamento a SME/Frotas.
+
+https://teixeiradefreitas.igov.com.br/documents/11338487-9cc3-443b-aa32-fe1cb2308fc9/viewer
