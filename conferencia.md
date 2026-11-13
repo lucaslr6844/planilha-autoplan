@@ -2,6 +2,10 @@
 
 47 notas acompanhadas: 44 processos identificados e 3 notas sem identificação segura. Incluídos os processos das notas 168.201 e 832. Foram confirmados cinco pagamentos novos por comprovante bancário de 13/11/2026; total de 18 pagamentos comprovados. Houve 17 alterações de localização desde a versão de 12/11.
 
+## Atualização pontual — nota 168.099, em 13/11/2026 às 15:43
+
+Portaria SECAD nº 248/2026, abrangendo o contrato 2-232-2026 e designando o fiscal da Educação, lida na nova peça p. 96, anexada por Lucas às 15:41. O histórico confirma devolução à Controladoria / Análise PG às 15:41. Situação: **Em reanálise no Controle**. A aprovação do atendimento à notificação aguarda despacho do Controle; pagamento ainda não comprovado. Os demais registros mantêm a conferência das 15:33.
+
 ## Alcance da conferência
 
 Perfil SME / Processos Administrativos. A pesquisa por título Autoplan e autor Lucas retornou 224 registros, percorridos em oito páginas. Foram reabertos os 26 processos pendentes acessíveis e os dois novos registros. Lidos os cinco comprovantes novos e três notificações recentes (168.099, 168.178 e 168.004). A localização dos pagamentos anteriormente comprovados foi conferida na busca; seus comprovantes não foram relidos. As análises documentais de 219, 805 e 818 foram mantidas, e as localizações de 219 e 818 continuam baseadas na consulta anterior. As notas 397, 536 e 167.642 permanecem sem vínculo seguro. Liquidação, transferência para a Tesouraria ou arquivamento isoladamente não comprovam pagamento.
@@ -76,7 +80,7 @@ Os valores acima correspondem às transferências bancárias líquidas; não sub
 | 168.055 | PMTF-PR-91664/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
 | 168.054 | PMTF-PR-92028/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
 | 168.053 | PMTF-PR-90934/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
-| 168.099 | PMTF-PR-96751/2026 | SME / Administrativo | Notificado pelo Controle |
+| 168.099 | PMTF-PR-96751/2026 | Controladoria / Análise PG | Em reanálise no Controle |
 | 808 | PMTF-PR-96856/2026 | SEFIN / Tesouraria - Educação | Na Tesouraria, sem pagamento confirmado |
 | 818 | PMTF-PR-90558/2026 | SEFIN / Tesouraria Arquivo - Educação | Conteúdo restrito; pagamento não confirmado |
 | 821 | PMTF-PR-95611/2026 | SEFIN / Tesouraria Arquivo - Educação | Pago com comprovante |
@@ -105,7 +109,7 @@ Os valores acima correspondem às transferências bancárias líquidas; não sub
 | 754 | Em reanálise no Controle | Detalhar montagem e desmontagem de pneus e justificar os 80 km previstos para guincho. Justificativa anexada, p. 129; processo devolvido ao Controle para reanálise. |
 | 168.087 | Notificado pelo Controle | NA COMPROVAÇÃO CONSTA PEDIDO DE "Serviço de alternador" |
 | 776 | Em reanálise no Controle | Justificar a troca de óleo após apenas 3.205 km. Justificativa anexada em 09/11; em reanálise. |
-| 168.099 | Notificado pelo Controle | Anexar portaria de fiscal de contrato. |
+| 168.099 | Em reanálise no Controle | Notificação anterior: anexar portaria de fiscal de contrato. Portaria SECAD nº 248/2026 anexada às 15:41, p. 96; processo devolvido ao Controle para reanálise. |
 | 168.178 | Em reanálise no Controle | Ausência do CRLV. CRLVe_TMM3F62 anexado, p. 92; devolvido ao Controle em 13/11 às 15:26 para reanálise. |
 
 ## Evidências por processo
@@ -432,11 +436,11 @@ Providência: Pagamento comprovado. O valor indicado é o líquido transferido; 
 
 ### Nota 168.099 — PMTF-PR-96751/2026
 
-Localização: **SME / Administrativo** (consulta: 13/11/2026). Situação: **Notificado pelo Controle**.
+Localização: **Controladoria / Análise PG** (consulta: 13/11/2026 15:43). Situação: **Em reanálise no Controle**.
 
-Notificação do Controle lida em 13/11/2026, p. 96 (parte), assinada às 13:32: solicita anexar portaria de fiscal de contrato. O processo está em SME / Administrativo. Sem comprovante bancário nas peças exibidas.
+Reconsulta pontual em 13/11/2026 às 15:43. A notificação das 13:32 solicitava portaria de fiscal de contrato. Foi lida a nova peça “Portaria de fiscal de contrato”, p. 96, anexada por Lucas às 15:41: Portaria SECAD nº 248, de 07/05/2026, publicada em 11/05/2026, abrangendo o contrato 2-232-2026 da Autoplan e designando Vancarlos Rodrigues de Almeida como fiscal da Educação. O histórico confirma transferência por Lucas para Controladoria / Análise PG às 15:41. A conclusão sobre atendimento da notificação aguarda reanálise do Controle. Sem nota técnica posterior ou comprovante bancário nas peças exibidas.
 
-Providência: Anexar a portaria do fiscal de contrato e devolver ao Controle para análise.
+Providência: Aguardar reanálise da portaria pelo Controle e novo despacho; pagamento ainda não comprovado.
 
 [Consultar no iGov](https://teixeiradefreitas.igov.com.br/documents/6a1e017a-2051-4c5f-9f44-addda8f6cfda/viewer)
 
