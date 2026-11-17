@@ -1,0 +1,27 @@
+import {DatabaseSync} from 'node:sqlite';
+import {readFileSync} from 'node:fs';
+import assert from 'node:assert/strict';
+import worker from './worker.mjs';
+const sqlite=new DatabaseSync(':memory:');sqlite.exec(readFileSync(new URL('./schema.sql',import.meta.url),'utf8'));
+const DB={prepare(sql){let args=[];return {bind(...a){args=a;return this;},async first(){return sqlite.prepare(sql).get(...args)||null;},async run(){sqlite.prepare(sql).run(...args);return {success:true};}};}};
+const env={DB,SETUP_KEY:'local-test-only-setup-key-12345678901234567890'};
+async function call(path,body,cookie='',origin='https://autoplan.test'){return worker.fetch(new Request('https://autoplan.test'+path,{method:body===undefined?'GET':'POST',headers:{'Content-Type':'application/json',Origin:origin,Cookie:cookie,'CF-Connecting-IP':'127.0.0.1'},body:body===undefined?undefined:JSON.stringify(body)}),env);}
+assert.equal((await call('/')).status,200);
+assert.equal((await call('/api/processos')).status,401);
+assert.equal((await call('/dashboard')).status,303);
+assert.equal((await call('/private/data.json')).status,404);
+assert.equal((await call('/api/setup',{setupKey:'invalid',username:'lucas',password:'local-test-password'})).status,403);
+assert.equal((await call('/api/setup',{setupKey:env.SETUP_KEY,username:'lucas',password:'local-test-password'})).status,201);
+assert.equal((await call('/api/setup',{setupKey:env.SETUP_KEY,username:'outro',password:'local-test-password'})).status,409);
+assert.equal((await call('/api/login',{username:'lucas',password:'wrong'})).status,401);
+const login=await call('/api/login',{username:'lucas',password:'local-test-password'});assert.equal(login.status,200);const cookie=login.headers.get('Set-Cookie');assert.match(cookie,/HttpOnly; Secure; SameSite=Strict/);
+assert.equal((await call('/api/processos',undefined,cookie)).status,200);
+assert.equal((await call('/api/import',[],cookie,'https://evil.test')).status,403);
+assert.equal((await call('/api/import',[{note:'TEST',process:'TEST',location:'Teste',status:'Teste',action:'Teste'}],cookie)).status,200);
+assert.equal((await (await call('/api/processos',undefined,cookie)).json()).length,1);
+assert.equal((await call('/api/logout',{},cookie)).status,200);
+assert.equal((await call('/api/processos',undefined,cookie)).status,401);
+for(let i=0;i<10;i++)await call('/api/login',{username:'lucas',password:'wrong'});
+assert.equal((await call('/api/login',{username:'lucas',password:'wrong'})).status,429);
+const row=sqlite.prepare('SELECT * FROM users').get();assert.notEqual(row.password_hash,'local-test-password');assert.equal(row.password_hash.length,64);
+console.log('Proteções verificadas: instalação restrita, cadastro único, senha inválida, sessão, arquivos privados, origem, importação, saída e limite de tentativas.');
