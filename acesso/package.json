@@ -1,0 +1,10 @@
+{
+  "name": "autoplan-acesso",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@supabase/ssr": "^0.8.0",
+    "@supabase/supabase-js": "^2.80.0",
+    "cookie": "^1.0.2"
+  }
+}
