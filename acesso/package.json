@@ -2,6 +2,11 @@
   "name": "autoplan-acesso",
   "private": true,
   "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --experimental-vm-modules security-check.mjs && node --experimental-vm-modules routes-check.mjs"
+  },
   "dependencies": {
     "@supabase/ssr": "^0.8.0",
     "@supabase/supabase-js": "^2.80.0",
